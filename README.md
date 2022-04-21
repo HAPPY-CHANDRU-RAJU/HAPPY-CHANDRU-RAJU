@@ -37,7 +37,5 @@ I am **Chandru Vinayagam** Aka Happie, currently pursuing my bachelor's degree m
 
 ------------
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=HAPPY-CHANDRU-RAJU&count_private=true&show_icons=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happy-chandru-raju&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=HAPPY-CHANDRU-RAJU&count_private=true&show_icons=true&include_all_commits=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happy-chandru-raju&hide=TeX&layout=compact)
 
