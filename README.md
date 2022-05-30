@@ -1,6 +1,5 @@
 ![cover](https://github.com/HAPPY-CHANDRU-RAJU/HAPPY-CHANDRU-RAJU/blob/master/Chandru%20Vinayagam.png?raw=true)
 
-
 ### Fancy seeing you here! 
 
 I am **Chandru Vinayagam** Aka Happie, currently pursuing my bachelor's degree majoring in computer science from [ M S Ramaiah Institute Of Technology ](http://www.msrit.edu/). I am a Tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
