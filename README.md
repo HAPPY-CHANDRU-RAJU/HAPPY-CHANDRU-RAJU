@@ -36,5 +36,8 @@ I am **Chandru Vinayagam** Aka Happie, currently pursuing my bachelor's degree m
 
 ------------
 
+## Streak Stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HAPPY-CHANDRU-RAJU&theme=algolia" alt="HAPPY-CHANDRU-RAJU"  />
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=HAPPY-CHANDRU-RAJU&count_private=true&show_icons=true&include_all_commits=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happy-chandru-raju&hide=TeX&layout=compact)
 
