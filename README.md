@@ -2,7 +2,7 @@
 
 ### Fancy seeing you here! 
 
-I am **Chandru Vinayagam** Aka Happie, currently pursuing my bachelor's degree majoring in computer science from [ M S Ramaiah Institute Of Technology ](http://www.msrit.edu/). I am a Tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am **Chandru Vinayagam** Aka Happie, currently working as Software Development Engineer I at MORE RETAIL, completed my bachelor's degree majoring in computer science from [ M S Ramaiah Institute Of Technology ](http://www.msrit.edu/). I am a Tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Chandru%20Vinayagam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chandru-vinayagam/)](https://www.linkedin.com/in/chandru-vinayagam/)  [![Instagram Badge](https://img.shields.io/badge/-Happy%20Chandru%20Raju-orange?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/happy_chandru_raju/)](https://www.instagram.com/happy_chandru_raju/) 
 [![Gmail Badge](https://img.shields.io/badge/-rajuashwin1410@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajuashwin1410@gmail.com)](mailto:rajuashwin1410@gmail.com)
