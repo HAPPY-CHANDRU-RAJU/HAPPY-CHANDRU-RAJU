@@ -11,27 +11,27 @@ I am **Chandru Vinayagam** Aka Happie, currently working as Software Development
 
 ## Technology Skills
 #####  Programming Languages 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+<img src="https://icongr.am/devicon/python-original.svg?size=65&color=currentColor" alt="python" width="40" height="40"/> <img src="https://icongr.am/devicon/java-original.svg?size=65&color=currentColor" alt="java" width="40" height="40"/>  <img src="https://icongr.am/devicon/c-original.svg?size=65&color=currentColor" alt="c" width="40" height="40"/>
 ##### Frontend Development
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<img src="https://icongr.am/devicon/html5-original.svg?size=65&color=currentColor" alt="html5" width="40" height="40"/>  <img src="https://icongr.am/devicon/css3-original.svg?size=65&color=currentColor" alt="css3" width="40" height="40"/>    <img src="https://icongr.am/devicon/javascript-original.svg?size=65&color=currentColor" alt="javascript" width="40" height="40"/>  <img src="https://icongr.am/devicon/bootstrap-plain.svg?size=65&color=currentColor" alt="bootstrap" width="40" height="40"/> <img src="https://icongr.am/devicon/react-original.svg?size=65&color=currentColor" alt="react" width="40" height="40"/>
 
 #####  Backend Development
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+<img src="https://icongr.am/devicon/nodejs-original.svg?size=65&color=currentColor" alt="nodejs" width="40" height="40"/>  <img src="https://icongr.am/devicon/express-original-wordmark.svg?size=65&color=currentColor" alt="express" width="40" height="40"/> <img src="https://icongr.am/devicon/php-original.svg?size=65&color=currentColor" alt="php" width="40" height="40"/> 
 
 ##### Database
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+<img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=65&color=currentColor" alt="mongodb" width="40" height="40"/>  <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=65&color=currentColor" alt="mysql" width="40" height="40"/> 
 
 ##### Devops
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></p>
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://icongr.am/devicon/git-original.svg?size=65&color=currentColor" alt="git" width="40" height="40"/>
 
 ##### Framework
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>  <img src="https://icongr.am/devicon/django-original.svg?size=65&color=currentColor" alt="django" width="40" height="40"/> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="80" height="40"/> 
 
 ##### Testing 
-<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="selenium" width="40" height="40"/>
 
 ##### Software / Other 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+<img src="https://icongr.am/devicon/photoshop-plain.svg?size=65&color=currentColor" alt="photoshop" width="40" height="40"/>  <img src="https://icongr.am/devicon/linux-original.svg?size=65&color=currentColor" alt="linux" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 
 ------------
 
