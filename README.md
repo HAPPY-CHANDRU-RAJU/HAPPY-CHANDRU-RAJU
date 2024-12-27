@@ -16,7 +16,7 @@ I am **Chandru Vinayagam** Aka Happie, currently working as Software Development
 <img src="https://icongr.am/devicon/html5-original.svg?size=65&color=currentColor" alt="html5" width="40" height="40"/>  <img src="https://icongr.am/devicon/css3-original.svg?size=65&color=currentColor" alt="css3" width="40" height="40"/>    <img src="https://icongr.am/devicon/javascript-original.svg?size=65&color=currentColor" alt="javascript" width="40" height="40"/>  <img src="https://icongr.am/devicon/bootstrap-plain.svg?size=65&color=currentColor" alt="bootstrap" width="40" height="40"/> <img src="https://icongr.am/devicon/react-original.svg?size=65&color=currentColor" alt="react" width="40" height="40"/>
 
 #####  Backend Development
-<img src="https://icongr.am/devicon/nodejs-original.svg?size=65&color=currentColor" alt="nodejs" width="40" height="40"/>  <img src="https://icongr.am/devicon/express-original-wordmark.svg?size=65&color=currentColor" alt="express" width="40" height="40"/> <img src="https://icongr.am/devicon/php-original.svg?size=65&color=currentColor" alt="php" width="40" height="40"/> 
+<img src="https://icongr.am/devicon/php-original.svg?size=65&color=currentColor" alt="php" width="40" height="40"/>
 
 ##### Database
 <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=65&color=currentColor" alt="mongodb" width="40" height="40"/>  <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=65&color=currentColor" alt="mysql" width="40" height="40"/> 
